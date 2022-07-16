@@ -21,3 +21,7 @@ Developed And Coded By | zBlueOrangePie#0521
 
 For Some Errors Contact Me In Discord
 zBlueOrangePie#0521
+
+# Is The Bot Source Free To Use?
+
+Yes Just Give Me The Credits And Saying U Own The Code
