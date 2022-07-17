@@ -4,7 +4,7 @@ V1 Of Kiwi Discord Bot Made In Aoi.js
 # How To Setup The Bot
 If Your Using Repl.it Use Secrets And Add The Name Example
 
-Name = token
+Name = token<br>
 Value = DiscordBotToken
 
 In VS Code Use .env And Use This Value
