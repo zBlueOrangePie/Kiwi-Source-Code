@@ -25,4 +25,4 @@ zBlueOrangePie#0521
 
 # Is The Bot Source Free To Use?
 
-Yes Just Give Me The Credits And Saying U Own The Code
+Yes Just Give Me The Credits
