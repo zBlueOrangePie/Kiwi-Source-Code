@@ -41,8 +41,4 @@ bot.status({
     time: "12"
 })
 
-bot.variables({
-    colorid: "#14dcb4",
-    devid: "896709705248960512",
-    globallogsid: "996998283979407460"
-})
+bot.variables(require(variables.js))
