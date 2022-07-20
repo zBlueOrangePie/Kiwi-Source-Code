@@ -41,4 +41,4 @@ bot.status({
     time: "12"
 })
 
-bot.variables(require(variables.js))
+bot.variables(require("variables.js"));
