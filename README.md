@@ -2,7 +2,7 @@
 V1 Of Kiwi Discord Bot Made In Aoi.js
 
 # How To Setup The Bot
-If Your Using Repl.it Use Secrets And Add The Name Example
+If Your Using Repl.it Use Secrets And Add This Secrets:
 
 Name = token<br>
 Value = DiscordBotToken
