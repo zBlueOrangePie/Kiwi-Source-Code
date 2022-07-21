@@ -6,7 +6,7 @@ const express = require("express")
 dotenv.config()
 const bot = new aoijs.Bot({
     token: process.env.token,
-    prefix: "k!",
+    prefix: ['$getServerVar[prefix]', '<@!$clientID>', '<@$clientID>'],
     intents: "all",
 })
 
