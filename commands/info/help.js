@@ -4,6 +4,7 @@ module.exports =({
     code: `
 <@$authorID> Here Are All Of My Bot Commands
 $title[Bot Commands]
+$description[My Guild In This Server Is \`$getServerVar[prefix]\` This Can Be Changeable]
 $addField[Fun Commands; k!calculator, k!kickback, k!howgay, k!slap]
 $addField[Information Commands; k!info, k!ping, k!help, k!uptime k!commandinfo]
 $addField[Utility Commands; k!say]
