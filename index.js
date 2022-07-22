@@ -7,7 +7,7 @@ dotenv.config()
 const bot = new aoijs.Bot({
     token: process.env.token,
     prefix: ['$getServerVar[prefix]', '<@!$clientID>', '<@$clientID>'],
-    intents: "all",
+    intents: "all"
 })
 
 bot.onMessage()
