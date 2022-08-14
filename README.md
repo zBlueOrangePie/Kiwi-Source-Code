@@ -20,8 +20,7 @@ Change Other Codes If You Want!
 
 Developed And Coded By | zBlueOrangePie#0521
 
-For Some Errors Contact Me In Discord
-zBlueOrangePie#0521
+For Some Errors Please Don't Contact Me Code Is Now Depracated.
 
 # Is The Bot Source Free To Use?
 
