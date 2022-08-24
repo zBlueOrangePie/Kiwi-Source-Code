@@ -4,24 +4,27 @@ V1 Of Kiwi Discord Bot Made In Aoi.js
 # How To Setup The Bot
 If Your Using Repl.it Use Secrets And Add This Secrets:
 
-Name = token<br>
-Value = DiscordBotToken
+```env
+Name = token
+Value = BotToken
+```
 
 In VS Code Use .env And Use This Value
+
+```env
 token=bottoken
+```
 
-Get Your Bot's token At https://discord.com/developers/applications
+Get Your Bot's token At [DISCORD DEV PORTAL](https://discord.com/developers/applications)
 
-# How To Run The Bot?
+# How To Start The Code?
 
-Simply Use node . And Your Done
+```env
+node .
+```
 
-Change Other Codes If You Want!
+Use This Command To Run/Start The Code
 
 Developed And Coded By | zBlueOrangePie#0521
 
 For Some Errors Please Don't Contact Me Code Is Now Depracated.
-
-# Is The Bot Source Free To Use?
-
-Yes Just Give Me The Credits
