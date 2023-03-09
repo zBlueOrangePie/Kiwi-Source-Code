@@ -25,6 +25,6 @@ node .
 
 Use This Command To Run/Start The Code
 
-Developed And Coded By | zBlueOrangePie#0521
+Developed And Coded By | zBlueOrangePie#0521 (Joshua Pingol)
 
 For Some Errors Please Don't Contact Me Code Is Now Depracated.
